@@ -2,16 +2,16 @@
 <h3 align="center">Full-Stack Developer | Java • Angular • Spring Boot | DevOps Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=440&lines=Desenvolvedor+Full-Stack+Java+%2B+Angular;DevOps+com+CI%2FCD+e+Docker;Automatizando+%7C+Testando+%7C+Entregando;Clean+Code+%E2%9C%85+SOLID+%E2%9C%85+SCRUM" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00FFAA&center=true&vCenter=true&width=760&lines=Desenvolvedor+Full-Stack+Java+%2B+Angular;DevOps+com+CI%2FCD+e+Docker;Automatizando+%7C+Testando+%7C+Entregando;Clean+Code+%E2%9C%85+SOLID+%E2%9C%85+SCRUM" alt="Typing SVG" />
 </p>
 
 ---
 
 ### 👨‍💼 Sobre Mim
 
-🎯 Sou apaixonado por desenvolvimento de software, com experiência prática em sistemas de gestão pública e soluções empresariais.  
-🛠️ Especialista em Java + Spring Boot no backend e Angular no frontend, com forte base em DevOps, testes automatizados e boas práticas de engenharia.
-⚡Também tenho conhecimentos em Python, C#, .NET, Vue.JS, PHP e Laravel! 
+🎯 <h3> Sou apaixonado por desenvolvimento de software, com experiência prática em sistemas de gestão pública e soluções empresariais.  </h3>
+🛠️ <h3> Especialista em Java + Spring Boot no backend e Angular no frontend, com forte base em DevOps, testes automatizados e boas práticas de engenharia. </h3>
+⚡ <h3> Também tenho conhecimentos em Python, C#, .NET, Vue.JS, PHP e Laravel! </h3>
 ---
 
 ### 💼 Principais Experiências
