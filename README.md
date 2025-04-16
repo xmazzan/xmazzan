@@ -50,14 +50,3 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge&labelColor=blue)](https://www.linkedin.com/in/gabsmatos)
 [![Portfólio](https://img.shields.io/badge/Portfólio-000?style=for-the-badge&logo=vercel&logoColor=white)](https://gsmdev.vercel.app)
-
----
-
-## 🌀 Dicas avançadas para deixar o perfil mais dinâmico
-
-### 🔮 1. **Typing Animation com SVG (como usamos acima)**
-- Usamos [readme-typing-svg](https://github.com/DenverCoder1/readme-typing-svg)
-
-### 🔄 2. **Gráficos de Contribuições**
-```md
-![GitHub Activity](https://github-readme-activity-graph.cyclic.app/graph?username=xmazzan&theme=tokyo-night)
