@@ -9,9 +9,9 @@
 
 ### 👨‍💼 Sobre Mim
 
-🎯 <h3> Sou apaixonado por desenvolvimento de software, com experiência prática em sistemas de gestão pública e soluções empresariais.  </h3>
-🛠️ <h3> Especialista em Java + Spring Boot no backend e Angular no frontend, com forte base em DevOps, testes automatizados e boas práticas de engenharia. </h3>
-⚡ <h3> Também tenho conhecimentos em Python, C#, .NET, Vue.JS, PHP e Laravel! </h3>
+🎯 Sou apaixonado por desenvolvimento de software, com experiência prática em sistemas de gestão pública e soluções empresariais.  
+🛠️ Especialista em Java + Spring Boot no backend e Angular no frontend, com forte base em DevOps, testes automatizados e boas práticas de engenharia.
+⚡ Também tenho conhecimentos em Python, C#, .NET, Vue.JS, PHP e Laravel!
 ---
 
 ### 💼 Principais Experiências
