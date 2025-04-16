@@ -10,7 +10,7 @@
 ### 🚀 Sobre mim
 
 Sou desenvolvedor full stack com foco em soluções escaláveis e interfaces amigáveis.  
-Atualmente contribuo com sistemas de gestão pública, criando soluções em Angular, Spring Boot, PrimeFaces e SQL Server.
+Atualmente contribuo com sistemas de gestão pública, criando soluções em Java, Angular, Spring Boot, PrimeFaces e SQL Server.
 
 💡 Também atuo com DevOps, CI/CD, testes automatizados e design de software.
 
