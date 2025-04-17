@@ -9,8 +9,8 @@
 
 ### 👨‍💼 Sobre Mim
 
-- 🎯 Sou apaixonado por desenvolvimento de software, com experiência prática em sistemas de gestão pública e soluções empresariais.  
-- 🛠️ Especialista em Java + Spring Boot no backend e Angular no frontend, com forte base em DevOps, testes automatizados e boas práticas de engenharia.
+- 🛠️ Desenvolvedor técnico, especialista em Java + Spring Boot no backend e Angular no frontend, com forte base em DevOps, testes automatizados e boas práticas de engenharia.
+- 🎯 Apaixonado por tecnologia, especialmente em desenvolvimento de software, com experiência prática em sistemas de gestão pública e soluções empresariais.  
 ---
 
 ### 💼 Principais Experiências
@@ -65,6 +65,12 @@
 
 
 ---
+### 🎓 Formação Acadêmica
+
+- **Técnico em Desenvolvimento de Sistemas** – SENAI  
+  Foco em desenvolvimento full-stack, banco de dados, lógica de programação, redes e infraestrutura de sistemas, utilizando das normas técnicas exigidas pelo mercado.
+- **Bacharelado em Ciência da Computação** - (UNIFACS)  
+  _Nov/2021 – Dez/2025 (em andamento)_
 
 ### 📈 GitHub Stats
 
